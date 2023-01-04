@@ -22,10 +22,10 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how su
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: PRIVATE
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ LazyPrincess ]"""
-    SOURCE_TXT = """<b>LazyPrincess is an open source project</b>
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ BABY 👼 WARRIOR ⚔️ ]"""
+    SOURCE_TXT = """<b>BABY 👼 WARRIOR ⚔️ is an open source project</b>
 
-You can easily Made bot like this - <a href='https://t.me/LazyDeveloperr/adarshpappadi'>LazyBotDeveloperr</a>"""
+You can easily Made bot like this - <a href='https://t.me/adarshpappadi'>BABY 👼 WARRIOR ⚔️ BotDeveloperr</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
